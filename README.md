@@ -11,6 +11,14 @@ This project is designed to help you practice two primary skills:
 1. Creating and calling methods
 2. Doing user input and output to the console
 
+## Saving or Submitting your work
+
+Every so often as you work, you should *commit* your work to git, which saves a copy of it on your computer as well as on the cloud.
+
+On VS Code, you can do this by navigating to the "Source Control" tab by clicking the button that looks like this: <img src="https://www.svgrepo.com/show/361322/source-control.svg" style="height:1rem;width:1rem">. Type a message in the box labeled "message", for example "update oct 15" then click "Commit". It will ask if you want to add everything - say yes. Then click "Sync changes".
+
+Watch a short video on this here: 
+
 ## What is provided
 
 The file `App.java` provides a skeleton for the base version of this project. It provides a method called `start()` that will be run when the program begins. The `start()` method looks like this:
@@ -74,8 +82,3 @@ but creativity is fun so give it a try!
 
 5) I dunno, come up with something fun, creativity rules.
 
-## Saving or Submitting your work
-
-Every so often, you should *commit* your work to git, which saves a copy of it on your computer as well as on the cloud.
-
-On VS Code, you can do this by navigating to the "Source Control" tab by clicking the button that looks like this:
