@@ -17,7 +17,7 @@ Every so often as you work, you should *commit* your work to git, which saves a 
 
 On VS Code, you can do this by navigating to the "Source Control" tab by clicking the button that looks like this: <img src="https://www.svgrepo.com/show/361322/source-control.svg" style="height:1rem;width:1rem">. Type a message in the box labeled "message", for example "update oct 15" then click "Commit". It will ask if you want to add everything - say yes. Then click "Sync changes".
 
-Watch a short video on this here: 
+[Watch a short video on this here](https://youtu.be/m8oaRVRZ7tI)
 
 ## What is provided
 
@@ -66,7 +66,7 @@ This method should prompt the user for all of the components necessary for the m
 5) Your madlib has correct spelling and reasonable spacing.
 
 It is fine to use a madlib you did not write yourself, 
-but creativity is fun so give it a try!
+but creativity is fun so give it a try! [This is a good example of what it will look like when run](https://youtu.be/iBDz6lZI8xU)
 
 ### Optional Extensions for a 6 or 7
 
