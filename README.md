@@ -1,3 +1,7 @@
+Assuming you got here through github classroom, click the button above to open this project in VS Code
+
+OR, if you do not have VS Code installed, go to "Code" -> "Codespaces" -> "Create Codespace on Main" at the top of this page to open this project in a browser-based version of VS Code.
+
 # Madlibs Project Template
 
 In this project you will create a program that plays a customized version of Madlibs with the user. If you don't know what madlibs is, I suggest you do a quick google search before continuing!
@@ -69,3 +73,9 @@ but creativity is fun so give it a try!
 4) Organize your code using custom methods that make logical sense and use good abstraction. 
 
 5) I dunno, come up with something fun, creativity rules.
+
+## Saving or Submitting your work
+
+Every so often, you should *commit* your work to git, which saves a copy of it on your computer as well as on the cloud.
+
+On VS Code, you can do this by navigating to the "Source Control" tab by clicking the button that looks like this:
