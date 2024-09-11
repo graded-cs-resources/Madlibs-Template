@@ -13,17 +13,16 @@ public class App {
         printGreeting(userName);
         printInstructions();
         doMadlib();
-        System.out.println("hi");
     }
     
-    /* Here you should create all missing methods used by the start() method
-     * I have created the signature for ONE of the methods below.
-     * You can create any other methods you need as well!
-     */ 
-    
+    /**
+     * Document what this method does here!
+     */
     public void printInstructions() {
-        
+       
     }
+    
+    // add and implement the other methods you need in this area below!
     
   
 
